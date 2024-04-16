@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-16T18:05:42 IST" name="Suite" finished-at="2024-04-16T18:06:05 IST" duration-ms="22968">
+    <groups>
+    </groups>
+    <test started-at="2024-04-16T18:05:42 IST" name="Test" finished-at="2024-04-16T18:06:05 IST" duration-ms="22968">
+      <class name="testCases.LoginPage">
+        <test-method is-config="true" signature="startApp(java.lang.String)[pri:0, instance:testCases.LoginPage@66c92293]" started-at="2024-04-16T18:05:43 IST" name="startApp" finished-at="2024-04-16T18:06:03 IST" duration-ms="20273" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[http://leaftaps.com/opentaps/control/main]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startApp -->
+        <test-method signature="LoginMain(java.lang.String,java.lang.String)[pri:0, instance:testCases.LoginPage@66c92293]" started-at="2024-04-16T18:06:03 IST" name="LoginMain" data-provider="Fname" finished-at="2024-04-16T18:06:05 IST" duration-ms="1740" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DemoSalesManager]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[crmsfa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginMain -->
+      </class> <!-- testCases.LoginPage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

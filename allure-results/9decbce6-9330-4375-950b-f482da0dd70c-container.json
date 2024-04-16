@@ -1,0 +1,1 @@
+{"uuid":"9decbce6-9330-4375-950b-f482da0dd70c","name":"common.BaseClass.startApp","children":["e6d8b6fe-a578-45c9-a1cc-c8d80c95259d"],"description":"","befores":[{"name":"startApp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1713268878153,"stop":1713268889119}],"afters":[],"start":1713268878153,"stop":1713268889119}
